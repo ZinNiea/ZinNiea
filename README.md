@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   + __적당히__ 외향적입니다.
 * 고등학교(14')부터 __프로그래밍__ 을 시작했습니다.
 * 취미는 __리버싱__ 입니다.
-* 백엔드 엔지니어입니다만, 게임 개발 경력이 제일 많습니다.
+* 백엔드 엔지니어입니다만, 제일 많은 경험은 __게임 개발__ 입니다.
 
 
 ## Stacks
@@ -149,3 +149,10 @@ Here are some ideas to get you started:
 * **결과/성과**
   + 'Person'에 대한 인식률 AVG 87% 이상
   + 2천명에 대한 출입, 동선 데이터 그래프화
+
+## Conference Participation History
+* 2018 PlayX4 exhibitor
+* 2018, 2019 NDC Registrant
+* 2020 U-300 교육부장관상
+* 2022 World IT Show Attendee
+* 2022 Smart Factory + Automation World Visitor
