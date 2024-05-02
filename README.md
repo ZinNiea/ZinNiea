@@ -115,7 +115,7 @@ Here are some ideas to get you started:
   + 솔로잉 횡스크롤 어드벤처 게임
   + 계정별 데이터 세이브/로드 지원
   + 소셜 로그인 제공
-  + Unity Engine, C#
+  + Unity Engine, C# Script
 * **기여도**
   + 캐릭터 공격에 따른 넉백 등 상호작용 시의 물리효과 구현
   + 최초 개발한 미니맵 컴포넌트가 매우 큰 오버헤드를 동반하였기에, 최적화 작업을 통해 원활한 게임 플레이 기여
